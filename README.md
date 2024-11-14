@@ -42,6 +42,12 @@ O Step Functions permite monitorar o status de cada etapa e gerenciar reexecuç�
 - Python 3.9+
 - [Docker](https://docs.docker.com/get-docker/) (opcional para execução em contêiner)
 
+## Estrutura do Docker
+O projeto inclui:
+
+`Dockerfile`: Configuração para criar a imagem Docker
+`requirements.txt`: Lista de dependências Python necessárias
+
 ## Instalação
 
 1. Clone o repositório:
@@ -51,7 +57,7 @@ O Step Functions permite monitorar o status de cada etapa e gerenciar reexecuç�
 
 ################################################################################################################################################
 
-# Brewery Data Pipeline (EN)
+# Brewery Data Pipeline (PT-BR)
 
 ## Project Description
 
@@ -92,6 +98,12 @@ Step Functions allows you to monitor the status of each step and manage reruns i
 - AWS account with permissions for AWS Lambda and Step Functions
 - Python 3.9+
 - [Docker](https://docs.docker.com/get-docker/) (optional for running in a container)
+
+## Docker framework
+The project includes:
+
+`Dockerfile`: Configuration for building the Docker image
+`requirements.txt`: List of required Python dependencies
 
 ## Installation
 
