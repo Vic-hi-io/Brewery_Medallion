@@ -57,7 +57,7 @@ O projeto inclui:
 
 ################################################################################################################################################
 
-# Brewery Data Pipeline (PT-BR)
+# Brewery Data Pipeline (EN)
 
 ## Project Description
 
